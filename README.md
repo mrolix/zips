@@ -1,1 +1,1 @@
-# zips
+# Repository for public zip files
